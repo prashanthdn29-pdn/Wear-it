@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+dist/
+
+# Secrets (IMPORTANT)
+.env
+.env.*
+*.env
+
+# Replit/Local Environment
+.local/
+.upm/
+replit.nix
+.replit
+
+# Editor/OS Files
+.vscode/
+.DS_Store
